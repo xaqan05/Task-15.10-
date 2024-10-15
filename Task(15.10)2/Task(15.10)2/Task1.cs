@@ -1,6 +1,6 @@
-﻿namespace Task_15._10_2
+﻿/*namespace Task_15._10_2
 {
-    internal class Program
+    internal class Task1
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,6 @@
             library1.AddBook(book2);
 
             library1.SearchBook("Phsyics");
-            library1.SearchBook("Math");
 
             library1.ShowAllBooks();
         }
@@ -39,7 +38,8 @@
         public Library(string name)
         {
             Name = name;
-            Books = new Book[0];
+            Books = new Book[4];
+
         }
 
 
@@ -71,3 +71,4 @@
     }
 
 }
+*/
